@@ -3,6 +3,8 @@
 N = 5 -> "5, 4, 3, 2, 1"
 N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1" */
 
+Console.Clear();
+
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 int count = 1;

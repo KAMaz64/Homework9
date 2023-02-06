@@ -3,6 +3,8 @@
 M = 1; N = 15 -> 120
 M = 4; N = 8. -> 30 */
 
+Console.Clear();
+
 Console.Write("Введите число M: ");
 int M = Convert.ToInt32(Console.ReadLine());
 
